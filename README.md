@@ -19,8 +19,6 @@ https://drive.google.com/drive/folders/12LFpmzgvrIbYr09Ntw4Y0OFR1GAm9YUN?usp=sha
 ## Setup
 To do this project, you nedd install:
 
-```
 * To generate - [@STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
 * To compile - [@Visual Studio Code](https://www.st.com/en/development-tools/stm32cubemx.html) or [@STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
-$ To dowload to kit - [@STM32CubeProgramer](https://www.st.com/en/development-tools/stm32cubeprog.html)
-```
+* To dowload to kit - [@STM32CubeProgramer](https://www.st.com/en/development-tools/stm32cubeprog.html)
