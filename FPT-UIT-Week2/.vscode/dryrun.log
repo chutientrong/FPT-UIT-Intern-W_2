@@ -1,0 +1,9 @@
+make.exe -f "c:\Users\TRONG-UIT\Music\FPT-UIT-Intern-W_2\FPT-UIT-Week2\make" --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/TRONG-UIT/Music/FPT-UIT-Intern-W_2/FPT-UIT-Week2'
+make: Leaving directory '/cygdrive/c/Users/TRONG-UIT/Music/FPT-UIT-Intern-W_2/FPT-UIT-Week2'
+ 
+make: c:\Users\TRONG-UIT\Music\FPT-UIT-Intern-W_2\FPT-UIT-Week2\make: No such file or directory
+make: *** No rule to make target 'c:\Users\TRONG-UIT\Music\FPT-UIT-Intern-W_2\FPT-UIT-Week2\make'.
+make: Failed to remake makefile 'c:\Users\TRONG-UIT\Music\FPT-UIT-Intern-W_2\FPT-UIT-Week2\make'.
+make: *** No targets specified and no makefile found.  Stop.
+ 
