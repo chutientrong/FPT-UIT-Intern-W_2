@@ -1,4 +1,4 @@
-##FPT-UIT Intern Week 2
+### FPT-UIT Intern Week 2
 * [Task](#Task)
 * [Google Drive](#Drive)
 * [Infor](#Infor)
