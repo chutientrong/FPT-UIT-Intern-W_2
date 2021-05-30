@@ -2,6 +2,7 @@
 * [Task](#Task)
 * [Google Drive](#Drive)
 * [Infor](#Infor)
+* [Setup](#Setup)
 
 ## Task
 This project is task 2.
