@@ -9,7 +9,7 @@ make: *** No rule to make target 'c:\Users\TRONG-UIT\Music\FPT-UIT-Intern-W_2\FP
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun May 30 17:11:10 2021
+# Make data base, printed on Sun May 30 21:25:52 2021
 
 # Variables
 
@@ -24,7 +24,7 @@ USERPROFILE = C:\Users\TRONG-UIT
 # environment
 LOCALAPPDATA = C:\Users\TRONG-UIT\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-78c0caf9-c85d-47f5-914f-3125ad9fadb2-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-feb97795-f086-4122-9582-8211547b40c7-sock
 # environment
 VSCODE_CWD = C:\Users\TRONG-UIT\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -38,7 +38,7 @@ MAKE_COMMAND := make
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_12152_JRMVSINMXDWTHSZG
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_6000_HFRZTCLPALVPZBXT
 # environment
 ONEDRIVECOMMERCIAL = C:\Users\TRONG-UIT\OneDrive - Trường ĐH CNTT - University of Information Technology
 # environment
@@ -94,7 +94,7 @@ MAKEFILE_LIST :=
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 12152
+VSCODE_PID = 6000
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -276,6 +276,6 @@ all:
 # strcache performance: lookups = 8 / hit rate = 37%
 # hash-table stats:
 # Load=5/8192=0%, Rehash=0, Collisions=0/8=0%
-# Finished Make data base on Sun May 30 17:11:10 2021
+# Finished Make data base on Sun May 30 21:25:52 2021
 
  
